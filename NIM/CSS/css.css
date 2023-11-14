@@ -1,0 +1,41 @@
+/* hides the content*/
+.hide {
+  display: none;
+}
+/*shows the content*/
+.show {
+  display: block;
+  /*text-align: center;*/
+}
+
+body {
+  background: #373e98;
+}
+
+table {
+  margin: 0 auto;
+}
+#title {
+  text-align: center;
+  font-size: 40px;
+  color: #d3d3d3;
+  margin-bottom: 5px;
+}
+#sub {
+  margin-top: 5px;
+  margin-bottom: 30px;
+}
+h2 {
+  text-align: center;
+  color: #d3d3d3;
+}
+
+.submit {
+  height: 70px;
+  width: 100px;
+  border-radius: 20%;
+}
+td {
+  color: #d3d3d3;
+  font-size: 20px;
+}

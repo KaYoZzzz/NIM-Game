@@ -1,0 +1,21 @@
+[04-Oct-2022 07:39:49 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/xyakqzyz/public_html/NIM/index.php on line 3
+[04-Oct-2022 07:39:55 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/xyakqzyz/public_html/NIM/index.php on line 3
+[04-Oct-2022 07:41:45 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/xyakqzyz/public_html/NIM/index.php on line 3
+[04-Oct-2022 07:43:38 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/xyakqzyz/public_html/NIM/index.php on line 3
+[04-Oct-2022 07:43:39 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/xyakqzyz/public_html/NIM/index.php on line 3
+[04-Oct-2022 07:43:39 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/xyakqzyz/public_html/NIM/index.php on line 3
+[04-Oct-2022 07:43:48 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/xyakqzyz/public_html/NIM/index.php on line 3
+[04-Oct-2022 07:44:26 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/xyakqzyz/public_html/NIM/index.php on line 3
+[04-Oct-2022 07:46:37 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/xyakqzyz/public_html/NIM/index.php on line 3
+[04-Oct-2022 07:47:53 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/xyakqzyz/public_html/NIM/index.php on line 3
+[04-Oct-2022 07:52:00 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/xyakqzyz/public_html/NIM/index.php on line 3
+[04-Oct-2022 07:53:54 UTC] PHP Parse error:  syntax error, unexpected 'createLine' (T_STRING) in /home/xyakqzyz/public_html/NIM/index.php on line 53
+[04-Oct-2022 07:53:56 UTC] PHP Parse error:  syntax error, unexpected 'createLine' (T_STRING) in /home/xyakqzyz/public_html/NIM/index.php on line 53
+[04-Oct-2022 07:54:35 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/xyakqzyz/public_html/NIM/index.php on line 3
+[04-Oct-2022 07:55:00 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/xyakqzyz/public_html/NIM/index.php on line 3
+[04-Oct-2022 07:55:17 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/xyakqzyz/public_html/NIM/index.php on line 3
+[06-May-2023 21:33:22 UTC] PHP Warning:  Undefined array key "l" in /home/xyakqzyz/public_html/NIM/buttonAction.php on line 7
+[06-May-2023 21:33:22 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: null - string in /home/xyakqzyz/public_html/NIM/buttonAction.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/xyakqzyz/public_html/NIM/buttonAction.php on line 7
